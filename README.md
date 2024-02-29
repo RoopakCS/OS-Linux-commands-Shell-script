@@ -208,7 +208,7 @@ grep -R ubuntu /etc
 
 ## OUTPUT
 
-![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/blob/main/OS_ex1_1.png)
+![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/8fec2745-170f-447a-ba39-8798eadffa1f)
 
 grep -w -n world newfile 
 
@@ -601,7 +601,7 @@ www.mrcet.com
 tar -cvf backup.tar *
 
 ## OUTPUT
-![OS_ex1_2](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/6524f8e8-4e8b-4606-a1d1-1530267ed507)
+![OS_ex1_2](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/ffd061a5-9adf-46f3-9fba-994534bdc9b6)
 
 
 mkdir backupdir
@@ -617,7 +617,7 @@ tar -tvf backup.tar
 
 tar -xvf backup.tar
 ## OUTPUT
-![OS_ex1_4](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/820cdc70-d55a-46cf-ada4-841df9fc0534)
+![OS_ex1_4](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/1694431d-3b5f-433c-b840-90e3b4403eae)
 
 
 gzip backup.tar
