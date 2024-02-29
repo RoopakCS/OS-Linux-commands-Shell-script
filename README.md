@@ -612,13 +612,15 @@ mv backup.tar backupdir
 tar -tvf backup.tar
 
 ## OUTPUT
-![OS_ex1_3](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/1904a0b5-0448-45eb-8274-8ef84ffc1805)
+![image](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/be50a6d6-0d25-4bef-bd57-55e7d76554ca)
+
 
 
 
 tar -xvf backup.tar
 ## OUTPUT
-![OS_ex1_4](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/1694431d-3b5f-433c-b840-90e3b4403eae)
+![image](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/049af2ba-bffe-407b-989f-186609e8d038)
+
 
 
 gzip backup.tar
