@@ -208,7 +208,7 @@ grep -R ubuntu /etc
 
 ## OUTPUT
 
-![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/8fec2745-170f-447a-ba39-8798eadffa1f)
+![image](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/2085370e-10a7-466d-b0a3-add626307c8f)
 
 grep -w -n world newfile 
 
@@ -601,7 +601,8 @@ www.mrcet.com
 tar -cvf backup.tar *
 
 ## OUTPUT
-![OS_ex1_2](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/ffd061a5-9adf-46f3-9fba-994534bdc9b6)
+![image](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/4c19bd8b-9add-47a9-93a2-fe0770138420)
+
 
 
 mkdir backupdir
