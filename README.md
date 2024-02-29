@@ -208,7 +208,7 @@ grep -R ubuntu /etc
 
 ## OUTPUT
 
-(https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/a2e09108-7404-40ba-b586-50bf85615486)
+![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/a2e09108-7404-40ba-b586-50bf85615486)
 
 grep -w -n world newfile 
 
