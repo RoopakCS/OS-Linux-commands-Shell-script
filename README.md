@@ -208,7 +208,7 @@ grep -R ubuntu /etc
 
 ## OUTPUT
 
-![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/a2e09108-7404-40ba-b586-50bf85615486)
+![OS_ex1_1](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/blob/main/OS_ex1_1.png)
 
 grep -w -n world newfile 
 
@@ -611,13 +611,13 @@ mv backup.tar backupdir
 tar -tvf backup.tar
 
 ## OUTPUT
-![alt text](OS_ex1_3.png)![OS_ex1_3](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/1904a0b5-0448-45eb-8274-8ef84ffc1805)
+![OS_ex1_3](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/1904a0b5-0448-45eb-8274-8ef84ffc1805)
 
 
 
 tar -xvf backup.tar
 ## OUTPUT
-![alt text](OS_ex1_4.png)![OS_ex1_4](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/820cdc70-d55a-46cf-ada4-841df9fc0534)
+![OS_ex1_4](https://github.com/RoopakCS/OS-Linux-commands-Shell-script/assets/139228922/820cdc70-d55a-46cf-ada4-841df9fc0534)
 
 
 gzip backup.tar
