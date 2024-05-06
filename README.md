@@ -3,6 +3,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+# Name: Roopak C S
+# Register Number: 212223220088
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
